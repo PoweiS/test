@@ -12,7 +12,7 @@ social:
     iconPack: fas
     url: mailto:powei.sung@gmail.com
   - icon: phone
-    iconPack: fab
+    iconPack: fas
     url: tel:0902-195-508
   # - icon: github
   #   iconPack: fab
