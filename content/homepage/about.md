@@ -8,7 +8,7 @@ bio: 我喜歡新創、投資、旅行相關內容。自認會下廚的底片愛
 #   name: Example Organization
 #   url: https://example.com/
 social:
-  - icon: envelopes
+  - icon: envelope
     iconPack: fas
     url: mailto:powei.sung@gmail.com
   - icon: twitter
