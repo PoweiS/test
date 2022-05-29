@@ -11,12 +11,12 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:powei.sung@gmail.com
-  - icon: twitter
+  - icon: phone
     iconPack: fab
-    url: https://example.com/
-  - icon: github
-    iconPack: fab
-    url: https://example.com/
+    url: tel:0902-195-508
+  # - icon: github
+  #   iconPack: fab
+  #   url: https://example.com/
 
 weight: 1
 widget:
