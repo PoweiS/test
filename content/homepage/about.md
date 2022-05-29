@@ -1,16 +1,16 @@
 ---
-title: Example Author
+title: 宋柏緯
 draft: false
-role: Example Role
+role: 視覺設計
 avatar: images/icon.png
 bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
-organization:
-  name: Example Organization
-  url: https://example.com/
+# organization:
+#   name: Example Organization
+#   url: https://example.com/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
+    url: mailto:powei.sung@gmail.com
   - icon: twitter
     iconPack: fab
     url: https://example.com/
