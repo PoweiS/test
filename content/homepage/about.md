@@ -3,12 +3,12 @@ title: 宋柏緯
 draft: false
 role: 視覺設計
 avatar: images/icon.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+bio: 我喜歡新創、投資、旅行相關內容。自認會下廚的底片愛好者。目前擔任宏泰人壽視覺設計。
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
 social:
-  - icon: envelope
+  - icon: envelopes
     iconPack: fas
     url: mailto:powei.sung@gmail.com
   - icon: twitter
@@ -45,19 +45,36 @@ widget:
 
 ## Self Introduction
 
-Cras ex dui, tristique a libero eget, consectetur semper ligula. Nunc augue arcu, malesuada a nisi et, molestie finibus metus. Sed lacus odio, ultricies a nisl vitae, sollicitudin tempor ipsum. Vivamus quis feugiat arcu. Sed mi nunc, efficitur quis tellus vitae, posuere mattis metus. Phasellus in mattis dui. Nullam blandit, augue non ullamcorper dapibus, lacus dui molestie massa, in iaculis purus lectus eu lectus. Duis hendrerit lacinia tellus, sit amet feugiat dolor placerat id. Aenean ac velit massa. Vivamus feugiat dui at magna viverra, ut dictum nunc rutrum. Duis eget sapien finibus, lobortis orci id, vestibulum tellus. Maecenas lobortis urna libero, quis fermentum lectus lobortis nec. Nullam laoreet volutpat libero, ac mattis magna ullamcorper quis. Duis eget ipsum eu nisi mattis cursus et vitae turpis.
-
-Aliquam pretium diam eget leo feugiat finibus. Donec malesuada commodo ipsum. Aenean a massa in lacus venenatis vestibulum. Duis vel sem quis elit iaculis consectetur et quis dolor. Morbi eu ipsum hendrerit, malesuada ante sed, dapibus est. Suspendisse feugiat nulla ut gravida convallis. Phasellus id massa posuere, rhoncus justo ut, porttitor dolor. Nulla ultrices malesuada egestas. Nunc fermentum tincidunt sem ac vulputate. Donec mollis sollicitudin justo eget varius. Donec ornare velit et felis blandit, id molestie sapien lobortis. Morbi eget tristique justo. Mauris posuere, nibh eu laoreet ultricies, ligula erat iaculis sapien, vel dapibus lacus libero ut diam. Etiam viverra ante felis, et scelerisque nunc pellentesque vitae. Praesent feugiat dictum molestie.
+- 對未知領域充滿好奇心。
+- 曾獨自搭車旅行半年，途經4個國家。
+- 曾協助朋友居酒屋空間及菜單規劃，並參與營運。
+- 喜歡發掘有趣到新創，觀察不同產業的商業模式。是我目前投資沒獲利的藉口。
+- 目前在學習駕駛遊艇及帆船。
+- 畢業於實踐大學媒體傳達設計學系。
 
 ## Details  
 
-Nunc pellentesque vitae:
-- Morbi accumsan nibh efficitur diam molestie, non dignissim diam facilisis.
-- Donec dignissim leo in mollis faucibus.
-- Donec blandit lacus a pellentesque fermentum.
-
-Donec mollis sollicitudin:
-- Nunc dictum purus ornare purus consectetur, eu pellentesque massa ullamcorper.
-- Aliquam eu leo vitae justo aliquam tincidunt.
-- Fusce non massa id augue interdum feugiat sed et nulla.
-- Vivamus molestie augue in tristique laoreet.
+### 宏泰人壽數位設計
+#### 保障型保險商品平台
+__配合主管機關開發保障型保險平台__
+- 網站視覺設計
+- 參與交易流程規劃
+- 商品上架
+- 網站測試
+#### 保樂美網路投保平台
+__宏泰人壽為網路投保開發的平台__
+- 依需求與廠商溝通
+- 商品更新
+- 網站測試
+#### 粉絲專頁
+- 視覺設計
+- 活動規劃
+- 文案發想
+#### 支援業務需求設計
+- DM, 活動文宣, 輔銷品包裝
+### 宏泰人壽平面設計
+- 網站視覺設計
+- 商品視覺設計
+- 活動文宣設計
+### 愛情串燒空間規劃與營運
+### 大觀藝術空間視覺設計
