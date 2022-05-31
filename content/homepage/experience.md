@@ -73,7 +73,7 @@ widget:
     # Options: left and right. Leave blank to hide.
     position: left
     # Options: sm, md, lg and xl. Default is md.
-    scale: xl
+    scale: sm
 
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
