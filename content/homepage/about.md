@@ -3,9 +3,9 @@ title: 宋柏緯
 draft: false
 role: 視覺設計
 avatar: images/icon.png
-bio: 我喜歡新創、投資、旅行相關內容。自認會下廚的底片愛好者。目前擔任宏泰人壽視覺設計。
-# organization:
-#   name: Example Organization
+bio: 我喜歡新創、投資、旅行相關內容。自認會下廚的底片愛好者。
+organization:
+  name: 台北
 #   url: https://example.com/
 social:
   - icon: envelope
@@ -47,7 +47,7 @@ widget:
 - 曾獨自搭車旅行半年，途經4個國家。
 - 喜歡發掘有趣到新創，觀察不同產業的商業模式。
 - 目前在學習駕駛遊艇及帆船。
-## Details  
+<!-- ## Details  
 ##### 宏泰人壽 - 數位設計，2021 ~ present
 - 負責視覺設計，網站介面設計，文宣排版，輔銷商品包裝設計。
 - 協助社群活動企劃及文案發想，觸及成長兩倍。
@@ -66,4 +66,4 @@ widget:
 - 協助展場佈置。
 ##### 實踐大學媒體傳達設計學系，2010 ~ 2015
 - 畢業展場佈組組長，主導展場空間規劃，佈展與撤展流程規劃及安排。
-- 系學會總務。
+- 系學會總務。 -->
