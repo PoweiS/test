@@ -55,8 +55,8 @@ experiences:
       - 協助展場佈置。
 
   - title: 實踐大學 · 媒體傳達設計學系
-    organization:
-      name: 
+    # organization:
+    #   name: 
       # url: https://example.org
     dates: "2010 - 2015"
     location: 台北
