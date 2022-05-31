@@ -24,9 +24,9 @@ experiences:
     dates: "2019 - 2021"
     location: 台北
     writeup: >
-    - 負責商品DM設計及維護。
+      - 負責商品DM設計及維護。
 
-    - 每月設計行銷活動文宣及品牌行銷物。
+      - 每月設計行銷活動文宣及品牌行銷物。
 
   - title: 空間規劃與營運
     organization:
@@ -35,9 +35,9 @@ experiences:
     dates: "2017 - 2018"
     location: 台北
     writeup: >
-    - 協助空間規劃，擺設佈置，菜單規劃。
+      - 協助空間規劃，擺設佈置，菜單規劃。
 
-    - 酒品挑選及聯繫廠商。
+      - 酒品挑選及聯繫廠商。
 
   - title: 視覺設計
     organization:
