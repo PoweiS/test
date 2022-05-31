@@ -4,8 +4,6 @@ draft: false
 role: 視覺設計
 avatar: images/icon.png
 bio: 我喜歡新創、投資、旅行相關內容。自認會下廚的底片愛好者。
-organization:
-  name: 台北
 social:
   - icon: envelope
     iconPack: fas
