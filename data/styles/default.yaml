@@ -1,7 +1,7 @@
 # Normal(400), semibold(600), bold(700) font weight needed.
 fonts: 
-  - name: Montserrat
-    googleFonts: Montserrat:wght@400;600;700
+  - name: Roboto
+    googleFonts: Roboto:wght@400;500;700
   - name: Noto Sans TC
     googleFonts: Noto+Sans+TC:wght@400;500;700
 
