@@ -14,7 +14,7 @@ colorScheme: dark
 # Colors and fonts. Default style is data/styles/default.yaml/
 style: mystyle
 
---fonts-eureka : Rubik
+# --fonts-eureka : Rubik
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 siteType: Person
